@@ -1,0 +1,4 @@
+3
+boss senior 600.0
+manager middle 200.0
+cleaner junior 50.0

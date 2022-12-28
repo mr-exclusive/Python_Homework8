@@ -1,0 +1,6 @@
+5
+head 0 0
+stuff 1 2
+managment 2 1
+engineering 3 2
+engineering 4 2
